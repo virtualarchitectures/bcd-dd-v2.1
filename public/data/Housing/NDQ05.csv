@@ -1,0 +1,137 @@
+date,region,completions
+2011Q1,Dublin (City Council),72
+2011Q2,Dublin (City Council),109
+2011Q3,Dublin (City Council),41
+2011Q4,Dublin (City Council),83
+2012Q1,Dublin (City Council),57
+2012Q2,Dublin (City Council),37
+2012Q3,Dublin (City Council),68
+2012Q4,Dublin (City Council),71
+2013Q1,Dublin (City Council),36
+2013Q2,Dublin (City Council),111
+2013Q3,Dublin (City Council),57
+2013Q4,Dublin (City Council),90
+2014Q1,Dublin (City Council),56
+2014Q2,Dublin (City Council),243
+2014Q3,Dublin (City Council),145
+2014Q4,Dublin (City Council),102
+2015Q1,Dublin (City Council),132
+2015Q2,Dublin (City Council),95
+2015Q3,Dublin (City Council),112
+2015Q4,Dublin (City Council),146
+2016Q1,Dublin (City Council),177
+2016Q2,Dublin (City Council),238
+2016Q3,Dublin (City Council),254
+2016Q4,Dublin (City Council),223
+2017Q1,Dublin (City Council),230
+2017Q2,Dublin (City Council),323
+2017Q3,Dublin (City Council),538
+2017Q4,Dublin (City Council),492
+2018Q1,Dublin (City Council),330
+2018Q2,Dublin (City Council),311
+2018Q3,Dublin (City Council),549
+2018Q4,Dublin (City Council),644
+2019Q1,Dublin (City Council),529
+2019Q2,Dublin (City Council),497
+2011Q1,Fingal (County Council),144
+2011Q2,Fingal (County Council),134
+2011Q3,Fingal (County Council),96
+2011Q4,Fingal (County Council),33
+2012Q1,Fingal (County Council),29
+2012Q2,Fingal (County Council),29
+2012Q3,Fingal (County Council),24
+2012Q4,Fingal (County Council),49
+2013Q1,Fingal (County Council),27
+2013Q2,Fingal (County Council),25
+2013Q3,Fingal (County Council),61
+2013Q4,Fingal (County Council),72
+2014Q1,Fingal (County Council),53
+2014Q2,Fingal (County Council),74
+2014Q3,Fingal (County Council),152
+2014Q4,Fingal (County Council),178
+2015Q1,Fingal (County Council),180
+2015Q2,Fingal (County Council),239
+2015Q3,Fingal (County Council),263
+2015Q4,Fingal (County Council),349
+2016Q1,Fingal (County Council),277
+2016Q2,Fingal (County Council),367
+2016Q3,Fingal (County Council),232
+2016Q4,Fingal (County Council),358
+2017Q1,Fingal (County Council),291
+2017Q2,Fingal (County Council),343
+2017Q3,Fingal (County Council),568
+2017Q4,Fingal (County Council),624
+2018Q1,Fingal (County Council),410
+2018Q2,Fingal (County Council),666
+2018Q3,Fingal (County Council),516
+2018Q4,Fingal (County Council),545
+2019Q1,Fingal (County Council),351
+2019Q2,Fingal (County Council),493
+2011Q1,Dun Laoire/Rathdown (County Council),30
+2011Q2,Dun Laoire/Rathdown (County Council),68
+2011Q3,Dun Laoire/Rathdown (County Council),15
+2011Q4,Dun Laoire/Rathdown (County Council),17
+2012Q1,Dun Laoire/Rathdown (County Council),13
+2012Q2,Dun Laoire/Rathdown (County Council),11
+2012Q3,Dun Laoire/Rathdown (County Council),33
+2012Q4,Dun Laoire/Rathdown (County Council),34
+2013Q1,Dun Laoire/Rathdown (County Council),22
+2013Q2,Dun Laoire/Rathdown (County Council),24
+2013Q3,Dun Laoire/Rathdown (County Council),30
+2013Q4,Dun Laoire/Rathdown (County Council),132
+2014Q1,Dun Laoire/Rathdown (County Council),143
+2014Q2,Dun Laoire/Rathdown (County Council),64
+2014Q3,Dun Laoire/Rathdown (County Council),75
+2014Q4,Dun Laoire/Rathdown (County Council),184
+2015Q1,Dun Laoire/Rathdown (County Council),63
+2015Q2,Dun Laoire/Rathdown (County Council),54
+2015Q3,Dun Laoire/Rathdown (County Council),92
+2015Q4,Dun Laoire/Rathdown (County Council),86
+2016Q1,Dun Laoire/Rathdown (County Council),278
+2016Q2,Dun Laoire/Rathdown (County Council),154
+2016Q3,Dun Laoire/Rathdown (County Council),222
+2016Q4,Dun Laoire/Rathdown (County Council),320
+2017Q1,Dun Laoire/Rathdown (County Council),374
+2017Q2,Dun Laoire/Rathdown (County Council),346
+2017Q3,Dun Laoire/Rathdown (County Council),179
+2017Q4,Dun Laoire/Rathdown (County Council),288
+2018Q1,Dun Laoire/Rathdown (County Council),212
+2018Q2,Dun Laoire/Rathdown (County Council),349
+2018Q3,Dun Laoire/Rathdown (County Council),367
+2018Q4,Dun Laoire/Rathdown (County Council),356
+2019Q1,Dun Laoire/Rathdown (County Council),208
+2019Q2,Dun Laoire/Rathdown (County Council),196
+2011Q1,South Dublin Co. Co. (County Council),41
+2011Q2,South Dublin Co. Co. (County Council),16
+2011Q3,South Dublin Co. Co. (County Council),29
+2011Q4,South Dublin Co. Co. (County Council),36
+2012Q1,South Dublin Co. Co. (County Council),11
+2012Q2,South Dublin Co. Co. (County Council),23
+2012Q3,South Dublin Co. Co. (County Council),20
+2012Q4,South Dublin Co. Co. (County Council),75
+2013Q1,South Dublin Co. Co. (County Council),28
+2013Q2,South Dublin Co. Co. (County Council),25
+2013Q3,South Dublin Co. Co. (County Council),33
+2013Q4,South Dublin Co. Co. (County Council),56
+2014Q1,South Dublin Co. Co. (County Council),49
+2014Q2,South Dublin Co. Co. (County Council),60
+2014Q3,South Dublin Co. Co. (County Council),60
+2014Q4,South Dublin Co. Co. (County Council),70
+2015Q1,South Dublin Co. Co. (County Council),70
+2015Q2,South Dublin Co. Co. (County Council),50
+2015Q3,South Dublin Co. Co. (County Council),96
+2015Q4,South Dublin Co. Co. (County Council),90
+2016Q1,South Dublin Co. Co. (County Council),62
+2016Q2,South Dublin Co. Co. (County Council),87
+2016Q3,South Dublin Co. Co. (County Council),131
+2016Q4,South Dublin Co. Co. (County Council),194
+2017Q1,South Dublin Co. Co. (County Council),149
+2017Q2,South Dublin Co. Co. (County Council),251
+2017Q3,South Dublin Co. Co. (County Council),235
+2017Q4,South Dublin Co. Co. (County Council),345
+2018Q1,South Dublin Co. Co. (County Council),242
+2018Q2,South Dublin Co. Co. (County Council),466
+2018Q3,South Dublin Co. Co. (County Council),428
+2018Q4,South Dublin Co. Co. (County Council),519
+2019Q1,South Dublin Co. Co. (County Council),396
+2019Q2,South Dublin Co. Co. (County Council),360
